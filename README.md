@@ -1,7 +1,7 @@
 # cfbrisk_sim
 CFB Risk simulator
 
-These are scripts can do a basic simulation of a CFB Risk round, including a Monte Carlo type analysis to help a team predict what impact the assignment of star power to various territories might have on that team's expected wins.
+These are scripts that can do a basic simulation of a CFB Risk round, including a Monte Carlo type analysis to help a team predict what impact the assignment of star power to various territories might have on that team's expected wins.
 
 The scripts are written in PHP, making them easy to drop into an Apache2/PHP webserver.  They do rely on the presence of the API endpoints at http://collegefootballrisk.com
 
